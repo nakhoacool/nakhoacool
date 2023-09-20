@@ -1,5 +1,6 @@
 # 💫 About Me:
 👀 I’m interested in solving problems and learning new technologies<br>
+📫 How to reach me **[E-mail](mailto://anhkhoa9a6dt@gmail.com)**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nganhkhoa02/) 
