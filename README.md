@@ -15,8 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nakhoacool&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakhoacool&label=Profile%20views&color=0e75b6&style=flat" alt="nakhoacool" /> </p>
